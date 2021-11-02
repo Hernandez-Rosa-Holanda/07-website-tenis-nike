@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <title>Cards UI</title>
+</head>
+<body>
+    <div class="container">
+        <ui class="thumb">
+            <li onmouseover="changeImageSrc('./Images/shoes1.png')"><img src="./Images/shoes1.png"></li>
+            <li onmouseover="changeImageSrc('./Images/shoes2.png')"><img src="./Images/shoes2.png"></li>
+            <li onmouseover="changeImageSrc('./Images/shoes3.png')"><img src="./Images/shoes3.png"></li>
+        </ui>
+        <div class="imgBox">
+            <h2>Nike Air Zoom</h2>
+            <img src="./Images/shoes1.png" class="shoesss">
+            <ul class="size">
+                <span>Size</span>
+                <li>7</li>
+                <li>8</li>
+                <li>9</li>
+                <li>10</li>
+            </ul>
+            <a href="#" class="btn">Add to Cart</a>
+        </div>
+        <script>
+            function changeImageSrc(anything){
+                document.querySelector('.shoesss').src = anything;
+            }
+        </script>
+    </div>
+</body>
+</html>
