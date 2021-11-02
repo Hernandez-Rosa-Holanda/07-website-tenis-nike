@@ -22,7 +22,7 @@
 <h2>Clonar projeto</h2>
 
 <i>#Clonar repositório</i></br>
-  git clone <i>https://github.com/Hernandez-Rosa-Holanda/animated-bubbles-website.git</i>
+  git clone <i>https://github.com/Hernandez-Rosa-Holanda/shoeslp-html-css.git</i>
 
 <h2>Autor</h2> 
 <p>
