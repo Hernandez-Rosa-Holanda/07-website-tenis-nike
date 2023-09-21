@@ -4,6 +4,7 @@
   <h3>landing page</h3> 
   <p>
     Lading Page criada para ecommerce de tenis esportivo.
+    <br>https://07-landing-page-tenis-esportivo.vercel.app/</br>
   </p>
 <h2>Layout</h2>
   <p>
