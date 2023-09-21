@@ -3,7 +3,7 @@
 
   <h3>landing page</h3> 
   <p>
-    Lading Page criada para cliente.
+    Lading Page criada para ecommerce de tenis esportivo.
   </p>
 <h2>Layout</h2>
   <p>
