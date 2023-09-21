@@ -3,7 +3,7 @@
 
   <h3>landing page</h3> 
   <p>
-   Trabalho feito com Html semântico, animação com CSS e manipulação do Dom com Js.
+    Lading Page criada para cliente.
   </p>
 <h2>Layout</h2>
   <p>
@@ -13,7 +13,7 @@
 <h2>Tecnologias utilizadas</h2>
 
 <ul>
-  <li>HTML5 Semântico
+  <li>HTML5 
   <li>CSS
   <li>Javascript  
 
